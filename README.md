@@ -1,4 +1,10 @@
 # Detección de personas para el control y monitoreo en áreas verdes y parques infantiles
+## Code header & Configuration
+_pip3 install opencv-python_
+```
+import cv2
+import numpy as np
+```
 # Métodos usados
 Se usa **BackgroundSubtractorMOG**. Sustracción de fondo
 ```
